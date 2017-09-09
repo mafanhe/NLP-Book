@@ -1,11 +1,8 @@
-# My Awesome Book
+# NLP自然语言处理初探@mafanhe
 
-* sdfsdfsdf 
-* sdfsdf
+---
 
-# haha
+自然语言处理既是一门学科又是一门技术。
 
-
-
-
+本文将会涉及到从基于规则到基于统计，最后到基于联结注意的深度神经网络。
 

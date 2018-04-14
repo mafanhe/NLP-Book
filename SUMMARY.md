@@ -2,8 +2,8 @@
 
 * [简介](README.md)
 * 历史与发展
-* 基础知识
-  * [概率论](ji-chu-zhi-shi/gai-shuai-lun.md)
+* [基础知识](base-knowlege/README.md)
+  * [概率论](base-knowlege/gai-shuai-lun.md)
   * 信息论
   * 线性代数
   * 机器学习
